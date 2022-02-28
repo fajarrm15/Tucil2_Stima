@@ -1,0 +1,5 @@
+List Dataset yang digunakan dari https://scikit-learn.org/stable/datasets/toy_dataset.html
+
+1. Iris
+2. Wine
+3. Breast Cancer
